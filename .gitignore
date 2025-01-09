@@ -1,7 +1,7 @@
 __pycache__/
-.vscode/
 .venv/
 venv/
 .env
 
 presets/
+wd14_tagger_standalone.egg-info
